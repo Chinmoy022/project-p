@@ -1,2 +1,2 @@
 # project-p
-https://github.com/Chinmoy022/project-p.git
+https://chinmoy022.github.io/project-p/
